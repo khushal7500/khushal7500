@@ -32,7 +32,7 @@ Skilled in data cleaning, exploratory analysis, dashboard development, and trans
 ## Core Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=excel,python,postgresql,powershell&theme=light" height="48"/>
+  <img src="https://skillicons.dev/icons?i=excel,python,postgresql&theme=light" height="48"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   &nbsp;
