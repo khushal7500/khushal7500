@@ -99,7 +99,9 @@ Dayalbagh Educational Institute, Agra · Expected Graduation 2026
 </div>
 
 <br/>
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/khushal7500/khushal7500/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</div>
 <div align="center">
 <img src="https://img.shields.io/badge/-%20-0B2545?style=flat-square&color=0B2545" height="4" width="700" />
 <br/><br/>
