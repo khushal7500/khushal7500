@@ -105,11 +105,12 @@ Dayalbagh Educational Institute, Agra · Expected Graduation **2026**
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=khushal7500&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khushal7500&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal7500&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal7500&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=khushal7500&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=khushal7500&theme=tokyonight"/>
 </p>
 
 ## Contribution Snake
