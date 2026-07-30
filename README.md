@@ -33,15 +33,15 @@ Skilled in data cleaning, exploratory analysis, dashboard development, and trans
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=excel,python,postgres&theme=light" height="48"/>
-&nbsp;
+  &nbsp;
+  <img src="https://img.shields.io/badge/pgAdmin%204-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
-
-<br/>
 
 | Category | Tools & Focus |
 |:---|:---|
@@ -105,23 +105,18 @@ Dayalbagh Educational Institute, Agra · Expected Graduation **2026**
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushal7500&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal7500&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=khushal7500&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=khushal7500&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal7500&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=khushal7500&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/khushal7500/khushal7500/output/github-contribution-grid-snake.svg" width="95%" alt="Snake animation"/>
-
-</div>
-
-<br/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/khushal7500/khushal7500/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ## Currently Exploring
 
