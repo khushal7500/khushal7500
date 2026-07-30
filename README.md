@@ -32,7 +32,9 @@ Skilled in data cleaning, exploratory analysis, dashboard development, and trans
 ## Core Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=excel,python,sqlite,powershell&theme=light" height="48"/>
+  <img src="https://skillicons.dev/icons?i=excel,python,postgres&theme=light" height="48"/>
+&nbsp;
+<img src="https://img.shields.io/badge/pgAdmin%204-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   &nbsp;
@@ -104,18 +106,14 @@ Dayalbagh Educational Institute, Agra · Expected Graduation **2026**
 
 ## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushal7500&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal7500&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=khushal7500&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0B2545&icon_color=1B4F72&text_color=333333&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushal7500&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0B2545&text_color=333333" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khushal7500&theme=default&hide_border=true&background=FFFFFF&ring=0B2545&fire=1B4F72&currStreakLabel=0B2545" height="165"/>
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=khushal7500&theme=tokyonight"/>
+</p>
 
 ## Contribution Snake
 
