@@ -34,7 +34,7 @@ Skilled in data cleaning, exploratory analysis, dashboard development, and trans
 <p align="center">
   <img src="https://skillicons.dev/icons?i=excel,python,postgres&theme=light" height="48"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/pgAdmin%204-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/logo=postgresql&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   &nbsp;
